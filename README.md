@@ -1,12 +1,10 @@
-# Hi 👋, I'm Foysal Hasan
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Backend+Developer;Node.js+%7C+TypeScript+%7C+NestJS+%7C+Go;Building+Scalable+Systems;Cloud+%26+Distributed+Systems+Enthusiast" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Foysal%20Hasan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=foysal-hasan&style=for-the-badge&color=blue" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Backend+Developer;Node.js+%7C+TypeScript+%7C+NestJS+%7C+Go;Building+Scalable+Systems;Cloud+%26+Distributed+Systems+Enthusiast" />
+</p>
 
 </div>
 
