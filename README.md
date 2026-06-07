@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Backend+Developer;Node.js+%7C+NestJS+%7C+Go;Building+Scalable+Systems;Cloud+%26+Distributed+Systems+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Backend+Developer;Node.js+%7C+TypeScript+%7C+NestJS+%7C+Go;Building+Scalable+Systems;Cloud+%26+Distributed+Systems+Enthusiast" />
 
 <br/>
 
@@ -16,9 +16,9 @@
 
 Backend Developer with 2+ years of professional experience designing and building scalable, secure, and high-performance applications.
 
-Currently working as a **Node.js Developer at Backbencher Studio (Softvance Delta)**, focusing on backend architecture, API development, authentication systems, cloud deployment, and performance optimization.
+Currently working as a **Backend Developer**, focusing on backend architecture, API development, authentication systems, cloud deployment, and performance optimization.
 
-* 🔭 Building production-grade applications with **Node.js, NestJS, Express & Go**
+* 🔭 Building production-grade applications with **Node.js, Bun, TypeScript, NestJS, Express & Go**
 * ⚡ Experienced in **PostgreSQL, MongoDB, Redis, BullMQ, GraphQL & AWS**
 * 🌱 Exploring **Distributed Systems, Event-Driven Architecture & Kubernetes**
 * 🏆 Dean's Award Recipient (2021, 2022, 2023, 2024)
@@ -29,16 +29,16 @@ Currently working as a **Node.js Developer at Backbencher Studio (Softvance Delt
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/foysal-hasan-a15337192aa">
+<a href="https://linkedin.com/in/foysal-hasan-a15337192">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="mailto:foysal@gmail.com">
+<a href="mailto:foysal3909@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 <a href="https://github.com/foysal-hasan">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://leetcode.com/u/foysal_hasanaa/">
+<a href="https://leetcode.com/u/foysal_hasan/">
 <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
 </a>
 </p>
@@ -50,7 +50,7 @@ Currently working as a **Node.js Developer at Backbencher Studio (Softvance Delt
 ### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,go" />
+<img src="https://skillicons.dev/icons?i=nodejs,bun,typescript,graphql,nestjs,express,go" />
 </p>
 
 ### Databases
@@ -62,7 +62,7 @@ Currently working as a **Node.js Developer at Backbencher Studio (Softvance Delt
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,javascript,html,css" />
 </p>
 
 ### Cloud & DevOps
@@ -71,9 +71,9 @@ Currently working as a **Node.js Developer at Backbencher Studio (Softvance Delt
 <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git" />
 </p>
 
----
+<!-- --- 
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics 
 
 <div align="center">
 
@@ -81,7 +81,7 @@ Currently working as a **Node.js Developer at Backbencher Studio (Softvance Delt
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysal-hasan&layout=compact&theme=tokyonight&hide_border=true" />
 
-</div>
+</div> -->
 
 ---
 
@@ -118,8 +118,8 @@ Currently working as a **Node.js Developer at Backbencher Studio (Softvance Delt
 ## 💻 Coding Profiles
 
 <p align="center">
-<a href="https://leetcode.com/u/foysal_hasanaa/">
-<img src="https://leetcard.jacoblin.cool/foysal_hasanaa?theme=dark&font=JetBrains%20Mono&ext=contest" />
+<a href="https://leetcode.com/u/foysal_hasan/">
+<img src="https://leetcard.jacoblin.cool/foysal_hasan?theme=dark&font=JetBrains%20Mono&ext=contest" />
 </a>
 </p>
 
