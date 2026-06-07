@@ -103,15 +103,6 @@ Currently working as a **Backend Developer**, focusing on backend architecture, 
 
 </div>
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=foysal-hasan&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
 
 ---
 
